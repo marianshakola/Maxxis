@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550C1D5B1DC4E516001F28D6 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550C1D5A1DC4E516001F28D6 /* BaseViewController.swift */; };
 		55CDF4DE1DBB923F0020EF6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CDF4DD1DBB923F0020EF6F /* AppDelegate.swift */; };
 		55CDF4E01DBB923F0020EF6F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CDF4DF1DBB923F0020EF6F /* ViewController.swift */; };
 		55CDF4E31DBB923F0020EF6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55CDF4E11DBB923F0020EF6F /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		550C1D5A1DC4E516001F28D6 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		55CDF4DA1DBB923F0020EF6F /* Maxxis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Maxxis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55CDF4DD1DBB923F0020EF6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55CDF4DF1DBB923F0020EF6F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 		55CDF4F01DBB93370020EF6F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				550C1D5A1DC4E516001F28D6 /* BaseViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			files = (
 				55CDF4E01DBB923F0020EF6F /* ViewController.swift in Sources */,
 				55CDF4DE1DBB923F0020EF6F /* AppDelegate.swift in Sources */,
+				550C1D5B1DC4E516001F28D6 /* BaseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
